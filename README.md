@@ -1,5 +1,5 @@
 # Monga
-![N|Solid]https://raw.githubusercontent.com/squarenex/Monga/main/Monga.png
+![Monga](https://github.com/squarenex/Monga/assets/171150645/6c6fd797-3cb1-44aa-9f04-0393a0eec115)
 A Pakistan-based Gadgets Application
 Welcome to Monga, your ultimate destination for seamless buying and selling of tech devices in the digital realm! Say goodbye to the complexities of traditional marketplaces and embrace a new era of convenience and efficiency
 Discover Monga: Your Premier Destination for Seamless Tech Transactions
